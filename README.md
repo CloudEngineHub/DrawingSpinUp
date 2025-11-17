@@ -235,6 +235,9 @@ We have intensively borrow codes from the following repositories. Many thanks to
 - [Wonder3D](https://github.com/xxlong0/Wonder3D)
 - [Few-Shot-Patch-Based-Training](https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training)
 
+## Further Work
+- Our further work [From-Rigging-to-Waving](https://lordliang.github.io/From-Rigging-to-Waving/) is released! Welcome to read it!
+
 ## Citation
 If you find this repository useful in your project, please cite the following work. :)
 ```
